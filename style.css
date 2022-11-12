@@ -4,53 +4,6 @@
     box-sizing: border-box;
   }
   
-  div {
-    background-color: white;
-    margin-left: 40px;
-  }
-  section {
-    padding-bottom: 20px;
-    margin-top: 15px;
-    font-size: 14;
-  }
-  
-  .section-one {
-    color: green;
-    border-bottom: 1px solid rgb(129, 117, 117);
-  }
-  
-  .section-two {
-    color: red;
-    border-bottom: 1px solid rgb(129, 117, 117);
-  }
-  
-  .section-three {
-    font-size: 18px;
-    color: blue;
-  }
-  
-  table {
-    border-collapse: collapse;
-    border: 1px solid rgb(40, 40, 193);
-    width: 40vw;
-    margin: 20px auto;
-    height: 80vh;
-    float: left;
-  }
-  
-  th {
-    padding: 10px;
-  }
-  td {
-    padding-left: 10px;
-  }
-  
-  div h2 {
-    font-size: 18px;
-  }
-  
-  
-  
   .likes{
   color: brown;
   
